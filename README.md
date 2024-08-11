@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Front end Development**
 
-- 💬 Ask me about **C++,Web Development,Java Script,CSS**
+- 💬 Ask me about **C++,Java Script,React,Html,CSS**
 
 - 📫 How to reach me **Utkarsharma020@gmail.com**
 
